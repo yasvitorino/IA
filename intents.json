@@ -14,7 +14,7 @@
 
     { "tag": "Bolsas",
       "patterns":["A instituição oferece bolsas de estudo?", "Programas de apoio financeito"],
-      "responses": ["A FEI possui algumas bolsas de estudos disponíveis atualmente, em parceria com outras instituições! Quer dar uma conferida? Seguem alguns links: Santander Superamos Juntos "]
+      "responses": ["A FEI possui algumas bolsas de estudos disponíveis atualmente, em parceria com outras instituições! Quer dar uma conferida? Seguem alguns links: Santander Superamos Juntos"]
     }    
   ]
   }
