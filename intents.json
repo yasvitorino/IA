@@ -1,15 +1,15 @@
 {"intents":[
-    { "tag": "saudacao",
-      "patterns":["Ola","Opa","Oi", "tudo bem"],
-      "responses": ["Oi","Olá"]
+    { "tag": "Email",
+      "patterns":["Existe E-mail para contato?", "Gostaria de saber o endereço de E-mail"],
+      "responses": ["internacional@fei.edu.br"]
     },
-    { "tag": "despedida",
-      "patterns":["valeu","tchau","Obrigado","tks"],
-      "responses": ["Até breve","Falou"]
+    { "tag": "Telefone",
+      "patterns":["Telefone para contato", "Existe número para contato?"],
+      "responses": [" +55 11 4353- 2900 Ramal: 2234"]
     },
-    { "tag": "data_prova",
-      "patterns":["Quando sera a prova?","A prova será em que dia?"],
-      "responses": ["no dia 26"]
+    { "tag": "Local",
+      "patterns":["Gostaria de saber o endereço da instituição","Local Instituição"],
+      "responses": ["Campus São Bernardo do Campo - Prédio D - Térreo - Sala 07"]
     }
   ]
   }
