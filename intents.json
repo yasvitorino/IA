@@ -11,10 +11,14 @@
       "patterns":["gostaria de saber o endereço da instituicao","local instituicao"],
       "responses": ["campus sao bernardo do campo - predio d - terreo - sala 07"]
     },
-
     { "tag": "bolsas",
       "patterns":["A instituicao oferece bolsas de estudo?", "programas de apoio financeito"],
       "responses": ["a fei possui algumas bolsas de estudos disponíveis atualmente, em parceria com outras instituicoes! quer dar uma conferida? seguem alguns links: santander superamos juntos (https://portal.fei.edu.br/relacoes-internacionais#superamos)                                                                                             TOP España (https://portal.fei.edu.br/relacoes-internacionais#topespana)                                                                                                   Bolsas Ibero-Americanas (https://portal.fei.edu.br/relacoes-internacionais#ibero)                                                                                         Fórmula Santander (https://portal.fei.edu.br/relacoes-internacionais#formula)                                                                                             Santander Mundi (https://portal.fei.edu.br/relacoes-internacionais#mundi)"]
-    }    
+    },
+    {
+      "tag": "linguagens",
+      "patterns": ["quais os cursos de idiomas?", "existe curso de idioma?", "quero aprender ingles, como faço?", "tem exames de proficiencia?"],
+      "responses": ["A FEI possui parceria com a LifeIdiomas, que eh uma empresa de cursos de idiomas e exames de proficiencia em linguas estrangeiras. Para aprender ingles, italiano, alemao, espanhol, frances e outras linguas, entre em contato pelo telefone (11) 95579-1020 ou pelo site https://lifeidiomas.com.br/."]
+    }   
   ]
   }
