@@ -1,20 +1,20 @@
 {"intents":[
-    { "tag": "Email",
-      "patterns":["Existe E-mail para contato?", "Gostaria de saber o E-mail"],
+    { "tag": "email",
+      "patterns":["existe email para contato?", "gostaria de saber o email"],
       "responses": ["internacional@fei.edu.br"]
     },
-    { "tag": "Telefone",
-      "patterns":["Telefone para contato", "Existe número para contato?"],
+    { "tag": "telefone",
+      "patterns":["telefone para contato", "existe número para contato?"],
       "responses": [" +55 11 4353- 2900 Ramal: 2234"]
     },
-    { "tag": "Local",
-      "patterns":["Gostaria de saber o endereço da instituição","Local Instituição"],
-      "responses": ["Campus São Bernardo do Campo - Prédio D - Térreo - Sala 07"]
+    { "tag": "local",
+      "patterns":["gostaria de saber o endereço da instituicao","local instituicao"],
+      "responses": ["campus sao bernardo do campo - predio d - terreo - sala 07"]
     },
 
-    { "tag": "Bolsas",
-      "patterns":["A instituição oferece bolsas de estudo?", "Programas de apoio financeito"],
-      "responses": ["A FEI possui algumas bolsas de estudos disponíveis atualmente, em parceria com outras instituições! Quer dar uma conferida? Seguem alguns links: Santander Superamos Juntos (https://portal.fei.edu.br/relacoes-internacionais#superamos)                                                                                             TOP España (https://portal.fei.edu.br/relacoes-internacionais#topespana)                                                                                                   Bolsas Ibero-Americanas (https://portal.fei.edu.br/relacoes-internacionais#ibero)                                                                                         Fórmula Santander (https://portal.fei.edu.br/relacoes-internacionais#formula)                                                                                             Santander Mundi (https://portal.fei.edu.br/relacoes-internacionais#mundi)"]
+    { "tag": "bolsas",
+      "patterns":["A instituicao oferece bolsas de estudo?", "programas de apoio financeito"],
+      "responses": ["a fei possui algumas bolsas de estudos disponíveis atualmente, em parceria com outras instituicoes! quer dar uma conferida? seguem alguns links: santander superamos juntos (https://portal.fei.edu.br/relacoes-internacionais#superamos)                                                                                             TOP España (https://portal.fei.edu.br/relacoes-internacionais#topespana)                                                                                                   Bolsas Ibero-Americanas (https://portal.fei.edu.br/relacoes-internacionais#ibero)                                                                                         Fórmula Santander (https://portal.fei.edu.br/relacoes-internacionais#formula)                                                                                             Santander Mundi (https://portal.fei.edu.br/relacoes-internacionais#mundi)"]
     }    
   ]
   }
