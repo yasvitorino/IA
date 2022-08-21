@@ -13,7 +13,7 @@
     },
     { "tag": "bolsas",
       "patterns":["A instituicao oferece bolsas de estudo?", "apoio financeiro"],
-      "responses": ["a fei possui algumas bolsas de estudos disponíveis atualmente, em parceria com outras instituicoes! quer dar uma conferida?\n seguem alguns links: santander superamos juntos (https://portal.fei.edu.br/relacoes-internacionais#superamos)\n                                                                                      TOP Espana (https://portal.fei.edu.br/relacoes-internacionais#topespana)\n Bolsas Ibero-Americanas (https://portal.fei.edu.br/relacoes-internacionais#ibero)\n Formula Santander (https://portal.fei.edu.br/relacoes-internacionais#formula)\n Santander Mundi (https://portal.fei.edu.br/relacoes-internacionais#mundi)"]
+      "responses": ["a fei possui algumas bolsas de estudos disponiveis atualmente, em parceria com outras instituicoes! quer dar uma conferida?\n seguem alguns links:\n santander superamos juntos (https://portal.fei.edu.br/relacoes-internacionais#superamos)\n TOP Espana (https://portal.fei.edu.br/relacoes-internacionais#topespana)\n Bolsas Ibero-Americanas (https://portal.fei.edu.br/relacoes-internacionais#ibero)\n Formula Santander (https://portal.fei.edu.br/relacoes-internacionais#formula)\n Santander Mundi (https://portal.fei.edu.br/relacoes-internacionais#mundi)"]
     },
     {
       "tag": "linguagens",
@@ -43,26 +43,35 @@
     "patterns":["Ola","Opa","Oi", "tudo bem"],
     "responses": ["Oi","Ola"]
   },
+    
     { "tag": "intercambio",
       "patterns":["como funciona o intercambio?", "viagens longas", "estudar um semestre fora"],
       "responses": ["voce sabia que na fei voce pode se candidatar aos programas de intercambio? basta voce ser aluno da graduacao ou da pos-graduacao, seja do campi sbc ou sp!"]
   },
+    
    { "tag": "candidatura_intercambio",
       "patterns":["quais são os pre requisitos para participar?", "o que é necessario para eu me candidatar?","regras","processo de candidatura"],
-      "responses": ["para participar do programa de intercambio da fei voce precisa preencher alguns requisistos basicos, seguem os principais pontos que voce precisa ficar atento:\n 1.Estar regularmente matriculado no Centro Universitário FEI;\n 2.Estar em dia com as obrigações assumidas no Contrato de Prestação de Serviços Educacionais assinado com a FEI;\n 3.Ter integralizado no mínimo 30% do currículo previsto para seu curso, no momento do início previsto da viagem de estudos;\n 4.Ter média aritmética de todas as disciplinas cursadas igual ou maior a 6,0 (seis);\n 5.Manifestar compromisso de retornar ao Brasil após o período de estudos no exterior para conclusão dos estudos de graduação no Centro Universitário FEI;\n 6.Possuir proficiência no idioma do curso de destino.\n o processo de selecao para o intercambio aqui na fei e bem simples e depende principalmente do numero de vagas ofertadas em cada instituicao de ensino, caso existam mais candidatos do que vagas a fei selecionara o candidato com base nos seguintes criterios:\n ciclo no qual o estudante está matriculado (serao considerados os alunos dos ciclos mais avancados)\n melhores médias obtidas ao longo dos ciclos anteriores (média aritmetica)\n proficiencia no idioma do curso de destino (em alguns casos este criterio pode ser determinante)\n qualidade dos documentos apresentados\n cumprimento de prazos e correto preenchimento dos formularios\n parecer academico do coordenador de curso.\n e alem disso, antes de iniciar o processo de candidatura voce precisa se certificar que a intituicao pretendida oferece cursos na sua area de estudos e tambem se a mesma possui vagas disponiveis, depois de verificar esses pontos e atender a esses requisitos voce ja pode prontificar os documentos listados abaixo e leva-los  s coordenadoria de relações internacionais do centro universitário fei, localizada no Predio D - terreo - sala 07:\n formulario de Inscricao FEI\n ficha de Inscrição da Instituicao de destino\n copia da pagina de identificação do passaporte, com validade para todo o período de estudos no exterior\n Histórico escolar (em portugues ou ingles, dependendo do destino)\n carta de apresentacao/Motivacao (no idioma da universidade anfitria)\n curriculo (no idioma da universidade anfitria).\n 2 fotos 3x4"]
-   },
+
+      "responses": ["para participar do programa de intercambio da fei voce precisa preencher alguns requisistos basicos, seguem os principais pontos que voce precisa ficar atento:\n 1.Estar regularmente matriculado no Centro Universitario FEI;\n 2.Estar em dia com as obrigacoes assumidas no Contrato de Prestacao de Servicos Educacionais assinado com a FEI;\n 3.Ter integralizado no minimo 30% do curriculo previsto para seu curso, no momento do inicio previsto da viagem de estudos;\n 4.Ter media aritmetica de todas as disciplinas cursadas igual ou maior a 6,0 (seis);\n 5.Manifestar compromisso de retornar ao Brasil apos o periodo de estudos no exterior para conclusao dos estudos de graduacao no Centro Universitario FEI;\n 6.Possuir proficiencia no idioma do curso de destino.\n o processo de selecao para o intercambio aqui na fei e bem simples e depende principalmente do numero de vagas ofertadas em cada instituicao de ensino, caso existam mais candidatos do que vagas a fei selecionara o candidato com base nos seguintes criterios:\n ciclo no qual o estudante está matriculado (serao considerados os alunos dos ciclos mais avancados)\n melhores medias obtidas ao longo dos ciclos anteriores (média aritmetica)\n proficiencia no idioma do curso de destino (em alguns casos este criterio pode ser determinante)\n qualidade dos documentos apresentados\n cumprimento de prazos e correto preenchimento dos formularios\n parecer academico do coordenador de curso.\n e alem disso, antes de iniciar o processo de candidatura voce precisa se certificar que a intituicao pretendida oferece cursos na sua area de estudos e tambem se a mesma possui vagas disponiveis, depois de verificar esses pontos e atender a esses requisitos voce ja pode prontificar os documentos listados abaixo e leva-los  a coordenadoria de relacoes internacionais do centro universitario fei, localizada no Predio D - terreo - sala 07:\n formulario de Inscricao FEI\n ficha de Inscricao da Instituicao de destino\n copia da pagina de identificacao do passaporte, com validade para todo o periodo de estudos no exterior\n Historico escolar (em portugues ou ingles, dependendo do destino)\n carta de apresentacao/Motivacao (no idioma da universidade anfitria)\n curriculo (no idioma da universidade anfitria).\n 2 fotos 3x4"]
+},
+
 { "tag": "cronograma_intercambio",
       "patterns":["cronograma","periodo", "data","prazo"],
       "responses": ["na fei voce pode escolher fazer o intercambio no primeiro ou no segundo semestre do ano!\n\n datas previstas para o inicio dos proximos programas de intercambio:\n\n 1 semestre: 15 de setembro\n\n 2 semestre: 1 de abril\n\n o periodo de estudos no exterior tem previsao de um semestre, mas nao se preocupa, voce pode extender esse periodo por igual periodo desde que a fei e a instituicao destino concordem com a extensao do programa!"]
+
 },
+    
 { "tag": "custos_intercambio",
       "patterns":["custos","gastos"],
       "responses": ["no programa de intercambio da fei voce so precisa se preocupar com os custos de hospedagem, alimentacao, seguro de saude, passaporte, visto, passagem aerea e gastos pessoais! durante o periodo de intercambio o aluno devera continuar pagando as taxas de matricula e mensalidade da fei mas com excecao de possiveis taxas administrativas do pais ou universidade anfitria, o participante do programa estara isento de pagamentos a instituição estrangeira."]
+
 },
+
 { "tag": "destinos_intercambio",
       "patterns":["destinos", "paises", "instituicoes", "faculdades"],
       "responses": ["separamos para voce os principais destinos de intercambio que o programa da fei oferece:\n alemanha\n *https://www.kit.edu/\n\n argentina\n *https://centroloyola.com.ar/facultades/\n *https://www.ucc.edu.ar/\n\n brasil\n *https://www.unisinos.br/\n *http://www.puc-rio.br/index.html\n *https://portal.unicap.br/\n *https://faculdadejesuita.edu.br/\n\n canada\n *https://www.conestogac.on.ca/business/\n\n chile\n *https://www.uahurtado.cl/\n colombia\n *http://puj-portal.javeriana.edu.co/\n *https://www.javerianacali.edu.co/\n *https://www.usbcali.edu.co/\n\n equador\n *https://www.puce.edu.ec/portal/content/Pontificia%20Universidad%20Cat%c3%b3lica%20del%20Ecuador/0?link=oln266n.redirect\n\n el salvador\n *https://uca.edu.sv/\n\n espanha\n *https://www.ua.es/\n *http://www.usal.es/\n *http://www.udc.es/\n *http://www.uab.es/\n\n franca\n *http://www.icam.fr/\n\n guatemala\n *http://www.url.edu.gt/Portalurl/\n\n hungria\n *http://www.uniduna.hu/english/\n\n mexico\n *https://www.iteso.mx/\n *http://www.uia.mx/\n *http://www.leon.uia.mx/\n *http://itzel.lag.uia.mx/\n *http://www.iberopuebla.edu.mx/\n *http://www.tij.uia.mx/\n *http://www.loyola.edu.mx/\n *http://www.isia.edu.mx/\n\n nicaragua\n *http://www.uca.edu.ni/index.php?lang=es\n\n paraguai\n *http://www.isehf.edu.py/\n\n peru\n *http://www.uarm.edu.pe/\n *http://www.up.edu.pe/\n\n portugal\n *http://www.estgv.ipv.pt/estgv/\n\n republica dominicana\n *http://www.university-directory.eu/Dominican-Republic/Instituto-Filosofico-Pedro-Francisco-Bono.html\n *http://www.ipl.edu.do/\n\n suecia\n *http://www.liu.se/\n\n taiwan\n *http://www.pu.edu.tw/english/\n\n uruguai\n *http://www.ucu.edu.uy/\n\n venezuela\n *http://www.ucat.edu.ve/nuevo/\n *http://www.iujobarquisimeto.edu.ve/\n *http://www.ucab.edu.ve/"]
+
 }
-   
-]
+    
+ ]
   }
