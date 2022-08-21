@@ -18,7 +18,30 @@
     {
       "tag": "linguagens",
       "patterns": ["quais os cursos de idiomas?", "existe curso de idioma?", "quero aprender ingles, como faço?", "tem exames de proficiencia?"],
-      "responses": ["A FEI possui parceria com a LifeIdiomas, que eh uma empresa de cursos de idiomas e exames de proficiencia em linguas estrangeiras. Para aprender ingles, italiano, alemao, espanhol, frances e outras linguas, entre em contato pelo telefone (11) 95579-1020 ou pelo site https://lifeidiomas.com.br/."]
-    }   
+      "responses": ["A FEI possui parceria com a LifeIdiomas, que eh uma empresa de cursos de idiomas e exames de proficiencia em linguas estrangeiras. Para aprender ingles, italiano, alemao, espanhol, frances e outras linguas, entre em contato pelo telefone (11) 95579-1020 ou pelo site https://lifeidiomas.com.br/. Para cursos presenciais em outros paises, verifique de acordo com a lingua desejada e o país em: https://portal.fei.edu.br/relacoes-internacionais#curtaduracao. "]
+    },
+    {
+      "tag": "cursos-curtos",
+      "patterns": ["cursos curtos", "curta duração", "cursos pequenos", "existe curso pequeno?", "quais os cursos de curta duração da fei?", "cursos de curto prazo", "curso de ferias", "cursos intensivos."],
+      "responses": ["A FEI tem parceria com diversas universidades internacionais que oferecem cursos de curta duracao para estudantes interessados em aprender linguas e culturas diferentes. Para cursos de espanhol, ha a universidade https://internacional.ibero.mx/en/index.php/study-in-mexico/study-offers/short-term-program-social-realities-in-mexico/latam-program que fica no mexico; http://www.isp.ua.es/ e http://www.udc.es/ori/iss/index.html que ficam na espanha. Para cursos de ingles, ha as universidades https://www.cpp.edu/~ceu/professional-development/index.shtml e https://www.nyit.edu/ que ficam nos Estados Unidos."]
+    },
+    {
+      "tag":"dupla-diplomacia",
+      "patterns": ["dupla diplomacia", "dois diplomas", "dupla diplomacia na europa", "estudar engenharia nos estados unidos"],
+      "responses": ["A FEI tem parcerias para programas de dupla-diplomacia, para que o estudante tenha dois diplomas de universidades diferentes apos graduar. Dessa forma, o estudante conseguira, caso quiser, extender sua carreira academica/profissional no exterior. Atualmente, a FEI tem parceria com a NYIT nos Estados Unidos para os cursos de Engenharia, Administração e Ciência da Computação. Para mais detalhes, acesse o site da universidade: http://www.nyit.edu/. A FEI tem parceria com a universidade ICAM, na Franca, para os cursos de Engenharia. Acesse o site aqui: http://www.icam.fr/. Ha tambem parcerias com as universidades na Espanha e em Portugal, sendo seus sites respectivamente https://www.ua.es/ e http://www.ipv.pt/."]
+    },
+    {
+      "tag": "convenios",
+      "patterns": ["convenios da fei", "a fei tem convenio com outros paises?", "a fei é conveniada com universidades internacionais?"],
+      "responses": ["A FEI possui convenio com as seguintes instituicoes internacionais: Universidade da Coruna, Conventry University, University of Dunaujvaros, Goethe Institut, ICAM, Karlsruher Institut fur Technologie, Linkopings Universitet, NYIT, Providence University, Vniversidad d Salamanca, Santander Universidades, Aliança Francesa ABC, Universitat d' Alacant, AUSJAL, UAB, Cal Poly Pomona, Conestoga."]
+    },
+    { "tag": "despedida",
+      "patterns":["valeu", "tchau", "Obrigado", "tks"],
+      "responses": ["Ate breve", "Falou"]
+    },
+    { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem"],
+    "responses": ["Oi","Ola"]
+  }
   ]
   }
